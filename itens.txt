@@ -1,0 +1,2 @@
+//id nome categoria valor valor"compreja" duracaoleilao usernamequevende usernamequecompra
+1 carro a 100 300 20 Pedro Mike 
